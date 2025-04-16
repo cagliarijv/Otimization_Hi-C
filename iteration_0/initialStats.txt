@@ -1,0 +1,26 @@
+Platform Name: CUDA
+Platform Speed: 100.0
+Platform Property Names: ('DeviceIndex', 'DeviceName', 'UseBlockingSync', 'Precision', 'UseCpuPme', 'CudaCompiler', 'TempDirectory', 'CudaHostCompiler', 'DisablePmeStream', 'DeterministicForces')
+DeviceIndex Value: 0
+DeviceName Value: NVIDIA GeForce GTX 1050
+UseBlockingSync Value: false
+Precision Value: mixed
+UseCpuPme Value: false
+CudaCompiler Value: 
+TempDirectory Value: C:\Users\JOAO_V~1\AppData\Local\Temp
+CudaHostCompiler Value: 
+DisablePmeStream Value: false
+DeterministicForces Value: false
+
+Simulation name: opt_chr10_100K
+Number of beads: 1356, Number of chains: 1
+Potential energy: 28.66351, Kinetic Energy: 1.43867 at temperature: 1.0
+
+Potential energy per forceGroup:
+                                 Values
+FENEBond                  28235.218630
+AngleForce                 2696.472106
+RepulsiveSoftCore          7464.325396
+CustomTypes                   0.000000
+FlatBottomHarmonic          471.710070
+Potential Energy (total)  38867.726202
